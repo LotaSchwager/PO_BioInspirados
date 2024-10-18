@@ -25,7 +25,6 @@ Resultados/
 Solver/__pycache__/
 util/
 
-analisisBEN.py
 crearBD.py
 graficosBenchmark.py
 main.py
